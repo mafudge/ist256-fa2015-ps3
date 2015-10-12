@@ -6,8 +6,8 @@ package dominos;
 public class Domino {
     
     // private members required to implement a Domino. Do not change these.
-    private final int end1=0;
-    private final int end2=0;
+    private final int end1;
+    private final int end2;
     
     /**
      * This is the Constructor method for a new Domino object. Each domino
